@@ -1,3 +1,4 @@
+% trapezoidal rule
 function area = integrate_1d(y, x_step)
     len = length(y);
     area = 0.0;
